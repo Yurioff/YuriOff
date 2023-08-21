@@ -32,7 +32,7 @@
 
 
 ## Minhas Contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yurioff&repo=yurioff&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/yurioff/)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=yurioff&repo=yurioff&layout=compact&langs_count=7&theme=tokyonight)](https://github.com/yurioff/dio-lab-open-source)
 
 ##
 

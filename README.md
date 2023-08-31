@@ -1,9 +1,11 @@
 
-# Hello!, I'am Yuri 👋
+# Hello!, I'am Yuri 👋 ![](https://komarev.com/ghpvc/?username=yurioff)
 
 <a href="https://github.com/yurioff">
 <img align="right" height="160em" src="https://i.pinimg.com/originals/15/d1/7c/15d17c149b41de50f20d750e481010fa.gif">
 </a>
+
+
 
 ``🚀 Apaixonado por tecnologia e em constante busca por conhecimento. Minha jornada está apenas começando, mas estou determinado a mergulhar de cabeça no mundo do desenvolvimento web. Atualmente focado em aprender desenvolvimento Front-end, estou animado para adquirir as habilidades necessárias para criar interfaces incríveis e desenvolver projetos complexos. Valorizo a criatividade, a colaboração e a dedicação para superar desafios.🌐💡``
 

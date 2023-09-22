@@ -25,11 +25,16 @@
 
 
 ## GitHub Status
-<a href="https://github-readme-stats.vercel.app/api?">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=yurioff&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+<a href="#">
+  <img height="135em" src="https://github-readme-stats.vercel.app/api?username=yurioff&theme=tokyonight&show_icons=true&hide_border=false&count_private=true">
 </a>
-<a href="https://github-readme-stats.vercel.app/api">
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurioff&layout=compact&langs_count=7&theme=tokyonight">
+
+<a href="#">
+  <img height="135em" src="https://github-readme-streak-stats.herokuapp.com/?user=yurioff&theme=tokyonight&hide_border=false)">
+</a>
+
+<a href="#">
+<img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yurioff&layout=compact&langs_count=7&theme=tokyonight">
 </a>
 
 

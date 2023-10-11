@@ -1,4 +1,6 @@
-<img width="100%" src="github-header-image.png">![](https://komarev.com/ghpvc/?username=yurioff)
+<img width="100%" src="github-header-image.png">
+
+![](https://komarev.com/ghpvc/?username=yurioff)
 
 <a href="https://github.com/yurioff">
 <img align="right" height="160em" src="https://i.pinimg.com/originals/15/d1/7c/15d17c149b41de50f20d750e481010fa.gif">
